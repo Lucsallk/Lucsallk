@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucsallk
 - 👀 I’m interested in joining research teams focused on digital security
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on any projective i'm able to help
+- 💞️ I’m looking to collaborate on any project i'm able to help
 - 📫 How to reach me lucsallk@hotmai.com, lucas-santiago@academico.ufs.br
 
 <!---
