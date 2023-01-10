@@ -2,7 +2,7 @@
 - 👀 I’m interested in joining research teams focused on digital security
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on any project I'm able to help
-- 📫 How to reach me lucsallk@hotmai.com, lucas-santiago@academico.ufs.br
+- 📫 How to reach me lucsallk@hotmail.com, lucas-santiago@academico.ufs.br
 - Currently I'm working developing web applications for the Secretary of Education of Nossa Senhora do Socorro
 <!---
 Lucsallk/Lucsallk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
